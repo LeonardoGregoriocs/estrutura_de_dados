@@ -78,21 +78,21 @@ print("Lista completa")
 lista.mostrar()
 
 # Exlui elementos um por um
-lista.exclui_primeiro_elemento()
-print("\nLista após excluir primeiro item")
-lista.mostrar()
+# lista.exclui_primeiro_elemento()
+# print("\nLista após excluir primeiro item")
+# lista.mostrar()
 
-lista.exclui_primeiro_elemento()
-print("\nLista após excluir mais um elemento")
-lista.mostrar()
+# lista.exclui_primeiro_elemento()
+# print("\nLista após excluir mais um elemento")
+# lista.mostrar()
 
-lista.exclui_primeiro_elemento()
-print("\nLista após excluir mais um elemento")
-lista.mostrar()
+# lista.exclui_primeiro_elemento()
+# print("\nLista após excluir mais um elemento")
+# lista.mostrar()
 
-lista.exclui_primeiro_elemento()
-print("\nLista após excluir mais um elemento")
-lista.mostrar()
+# lista.exclui_primeiro_elemento()
+# print("\nLista após excluir mais um elemento")
+# lista.mostrar()
 
 lista.exclui_primeiro_elemento()
 print("\nLista após excluir mais um elemento")
