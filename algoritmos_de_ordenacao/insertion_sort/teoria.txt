@@ -1,0 +1,7 @@
+Insertion Sort - Ordenação por inserção
+
+- Funcionamento:
+    - Há um marcaddo em algum lugar no meio do vetor.
+    - Os elementos à esquerda do marcador estão parcialmente ordenados (estão ordenados entre eles, porém não estão em suas posições finais).
+    - Os elementos à direita do marcador não estão ordenados.
+- Para vetores em que já estão quase ordenados, esse algoritmo é MUITO mais eficiente.
