@@ -1,0 +1,11 @@
+Shell Sort
+
+- Melhora a ordenação por inserção, podendo ser considerado uma "versão" do insertion sort.
+- Funcionamento:
+    - O vetor original é quebrado em subvetores.
+    - Cada subvetor é ordenado comparando e trocando os valores.
+    - Ao final de uma rodada, o subvetor é quebrado em mais um subvetor.
+        - Exemplo de vetor com 20 elementos:
+            - Primeira rodada: 10 elementos
+            - Segunda rodada: 5 elementos
+            - Terceira rodada: 2/3 elementos
