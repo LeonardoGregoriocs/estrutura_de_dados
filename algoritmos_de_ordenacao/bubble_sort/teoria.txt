@@ -1,0 +1,10 @@
+Bubble Sort - Bolha
+
+- Notavelmente lento e é o mais simples dos algoritmos de ordenação.
+- Funcionamento:
+    - Comparação de dois números.
+    - Se o da esquedar for maior, os elementos devem ser trocados.
+    - Desloca-se uma posição à direita.
+    - Os maiores elementos sempre estarão a direita do vetor.
+    - Em cada rodada, temos garantido que o ultimo elemente será o maior daquele vetor.
+    - Big-O: O (n2)
