@@ -1,0 +1,5 @@
+Quick Sort
+
+- Funcionamento:
+    - O vetor é dividido em subvetores que são chamados recursivamente para ordenar os elementos.
+    - Estratégia da divisão e conquista.
