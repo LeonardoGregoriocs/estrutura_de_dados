@@ -1,0 +1,7 @@
+Selection Sort - Ordenação por seleção
+
+- Melhora a ordenação pelo método da bolha, reduzindo o número de trocas necessárias de N2 para N.
+- Funcionamento:
+    - Percorrer todos os elementos e selecionar o menor.
+    - O menor elemento é trocado com o elemente da extremidade da esquerda do vetor (posições iniciais).
+    - Os elementos ordenados acumulam-se na esquerda.
