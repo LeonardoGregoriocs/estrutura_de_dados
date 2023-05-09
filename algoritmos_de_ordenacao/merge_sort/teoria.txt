@@ -1,0 +1,6 @@
+Merge Sort
+
+- Um dos algoritmos de programação mais popular.
+- Funcionamento:
+    - Dividir o problema em subproblemas.
+    - Dividir o vetor continuamente pela metade, ordenar e combinar (merge).
