@@ -1,0 +1,39 @@
+Árvores
+
+- Uma árvore combina as vantagens de duas estruturas: um vetor ordenado e uma lista encadeada.
+- Busca rápida (como em um vetor ordenado).
+- Inserção e eliminação é rapida (como em uma lista encadeada).
+
+Árvore binária
+
+- Uma árvore consite em nós conectados por arestas.
+- Uma árvore binária tem no máximo 2 filhos.
+- Filho a esquerda e filho a direita.
+- Pode ter um ou nenhum filho.
+
+Árvore binária de busca
+- O filho á esquerda do nó tem que ter uma chave menor que seu pai e o filho à direita de um nó tem que ter uma chave maior ou igual ao seu pai.
+
+Árvore binária de busca - Inserção
+- Primeiro, o local para inserir deve ser encontrado.
+- Segue-se o caminho da raiz até o devido nó, que será pai do novo nó.
+- Quando o pai for localizado, o novo nó será conectado como seu filho à esquerda ou direita, dependendo do valor da chave em relação ao pai.
+
+
+
+Terminologia de árvores
+
+- Caminho -> Caminho que liga um nó até outro nó.
+- Raiz -> Toda árvore possui uma raiz. E nas árvores, essa raiz está na parte superior, e deve haver somente um caminho da raiz até qualquer outro nó.
+- Pai -> Qualquer nó (exceto a raiz) tem exatamente uma aresta que sobe para outro nó.
+- Filho -> Qualquer nó pode ter uma ou mais linhas descendo para outros nós, esses nós abaixo de um dado nó são chamados de seus filhos.
+- Folha -> Um nó que não tem filhos.
+- Subárvore -> Qualquer nó pode ser considerada como sendo a raiz de uma Subárvore que consiste em seus filhos.
+- Visitando -> Um nó é visitado quando o controle do programa chega ao nó, em geral para a finalidade de executar alguma operação do nó.
+- Percorrendo -> Visitar todos os nós em alguma ordem especificada.
+- Níveis -> O nível de um determinado nó refere-se a quantas gerações o nó está da raiz.
+- Chaves -> Valor usado para buscar um item.
+
+- Uma maneira de visualizar nossas árvores é atreves desse site: http://www.webgraphviz.com/
+
+Onde no código criamos uma lista com as ligações e colocamos dentro desse site para visualizarmos.
